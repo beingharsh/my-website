@@ -70,7 +70,7 @@ a:hover{
 .top-cloud {
   width: 10%;
   position: absolute;
-  top: 10%;
+  top: 50px;
   right: 25%;
 }
 
@@ -78,7 +78,7 @@ a:hover{
   width: 10%;
   position: absolute;
   left: 25%;
-  top: 50%;
+  top: 350px;
 }
 .mountain{
   width: 45%;
